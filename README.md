@@ -1,6 +1,6 @@
 About Me
 -
-- 👋 Hi, I’m @SKY-TKP
+- 👋 Hi, I’m Gun ,but you can call me with SKY (a.k.a).
 - 👀 I’m interested in data science, animation, film lovers.
 - 🌱 I’m currently learning data science, and machine learning.
 - 📫 How to reach me via email, or instagram
