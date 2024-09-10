@@ -2,9 +2,9 @@ About Me
 -
 - 👋 Hi, I’m Gun ,but you can call me with SKY (a.k.a).
 - 👀 I’m interested in data science, animation, film lovers.
-- 🌱 I’m currently learning data science, and machine learning.
+- 🌱 I’m currently learning `data science`, and `machine learning`.
 - 📫 How to reach me via email, or instagram
-- 😄 Pronouns: He, or You
+- 😄 Pronouns: He
 - ⚡ Fun fact: I like matcha ,but sleep more than wake up?
 
 My Programming Languages
