@@ -5,7 +5,7 @@ About Me
 - 🌱 I’m currently learning `data science`, and `machine learning`.
 - 📫 How to reach me via email, or instagram
 - 😄 Pronouns: He
-- ⚡ Fun fact: I like matcha ,but sleep more than wake up?
+- ⚡ Fun fact: I like matcha ,but like sleep more than wake up :D
   
 <p align="center">
   <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
